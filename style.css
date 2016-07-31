@@ -1,0 +1,25 @@
+h1
+{           
+    text-align: center;
+    text-transform: uppercase;
+    padding: 40px 0 40px 0;
+    margin: 40px 0 40px 0;
+    clear: both;
+    background-color: #bdbdbd;
+    color: white;
+    height: 100px;  
+    font-family: Avenir, sans-serif;
+    font-size: 75px;
+}
+
+section {
+    
+}
+
+.flex {
+    padding-left: 20px;
+}
+
+.firm {
+    padding-left: 20px;
+}
