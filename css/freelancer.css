@@ -510,3 +510,7 @@ fieldset[disabled] .btn-success.active {
   list-style-type: none;
   font-size: 2em;
 }
+.summary {
+  list-style-type: none;
+  font-size: 2em;
+}
